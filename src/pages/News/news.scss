@@ -1,0 +1,15 @@
+.card {
+	flex-direction: row !important;
+	&__img {
+		width: 30%;
+	}
+}
+.figure {
+	width: 100%;
+}
+.img {
+	&-fluid {
+		width: 100%;
+		height: 500px !important;
+	}
+}
